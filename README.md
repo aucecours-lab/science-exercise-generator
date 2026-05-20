@@ -1,5 +1,9 @@
 # Science Exercise Generator
 
+## Preview
+
+![Aucecours Lab Preview](assets/lab-preview.png)
+
 Open-source AI tools for science education.
 
 ## Vision
