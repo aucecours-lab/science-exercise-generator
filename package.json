@@ -1,0 +1,9 @@
+{
+  "name": "science-exercise-generator",
+  "version": "0.1.0",
+  "description": "Open-source AI tools for science education",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  }
+}
